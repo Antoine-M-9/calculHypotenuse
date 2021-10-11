@@ -1,2 +1,1 @@
-# project_c
 # calculHypotenuse
